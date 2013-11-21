@@ -6,6 +6,8 @@ file name to be used multiple times, then some of the files (specifically the LE
 a `variables.less` file) have been prefixed to be unique.  The "main" file (i.e. `bootstrap.less`) have not been
 renamed.
 
+For javascript files, the file name has been prepended with a "_".
+
 To use these frameworks, just point CodeKit to each subdirectory (or even to this directory if you just want to 
 import all of them into a single framework).
 
@@ -17,4 +19,5 @@ There have been *no* modifications to any of these packages - aside from the ren
    - [JQuery](http://www.jquery.com)
    - [HTML5Shiv](http://code.google.com/p/html5shiv)
    - [Respond.js](http://www.github.com/scottjehl/Respond)
+   - [Require.js](http://www.requirejs.org)
    
