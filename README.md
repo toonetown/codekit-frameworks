@@ -20,4 +20,5 @@ There have been *no* modifications to any of these packages - aside from the ren
    - [HTML5Shiv](http://code.google.com/p/html5shiv)
    - [Respond.js](http://www.github.com/scottjehl/Respond)
    - [Require.js](http://www.requirejs.org)
+   - [Less.js](http://www.lesscss.org)
    
